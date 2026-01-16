@@ -1,16 +1,38 @@
-## Hi there 👋
+# 💫 About Me:
+Bilgisayar mühendisliği öğrencisiyim. Sosyal, zeki, azimli ve çalışkan bir yapıya sahibim.  
+C# ve Python öğrenme aşamasındayım; her ikisi de henüz temel seviyede olsa da algoritma bilgim oldukça güçlüdür. Daha önce çeşitli projelerde yer aldım ve şu anda kendime ait projeler geliştirmekteyim.
 
-<!--
-**humeyranurakkaya/humeyranurakkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Çince, İspanyolca ve Arapça öğreniyorum.  
+C1 seviyesinde İngilizce biliyorum ve Türk İşaret Dili bilgisine sahibim.  
+Ayrıca matematik olimpiyatlarında derecelerim bulunmaktadır.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-1f2937?logo=instagram&logoColor=white)](https://instagram.com/humeyranurakkaya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1f2937?logo=linkedin&logoColor=white)](https://linkedin.com/in/humeyranurakkaya)
+[![TikTok](https://img.shields.io/badge/TikTok-1f2937?logo=tiktok&logoColor=white)](https://tiktok.com/@humeyranur58)
+[![X](https://img.shields.io/badge/X-1f2937?logo=x&logoColor=white)](https://x.com/humeranurakkaya)
+[![Email](https://img.shields.io/badge/Email-1f2937?logo=gmail&logoColor=white)](mailto:humeyrakkaya8@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack:
+![C#](https://img.shields.io/badge/C%23-0f172a?style=flat&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0f172a?style=flat&logo=python&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-0f172a?style=flat&logo=google-cloud&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-0f172a?style=flat&logo=anaconda&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-0f172a?style=flat&logo=flutter&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-0f172a?style=flat&logo=adobe&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-0f172a?style=flat&logo=canva&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-0f172a?style=flat&logo=blender&logoColor=white)
+![After Effects](https://img.shields.io/badge/After%20Effects-0f172a?style=flat&logo=adobeaftereffects&logoColor=white)
+
+## 📊 GitHub Stats:
+<img src="https://github-readme-stats.vercel.app/api?username=humeyranurakkaya&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=humeyranurakkaya&theme=github-dark&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humeyranurakkaya&layout=compact&theme=github_dark&hide_border=true" />
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=humeyranurakkaya&icon=0&color=6)](https://visitcount.itsvg.in)

@@ -16,10 +16,7 @@ Ayrıca matematik olimpiyatlarında derecelerim bulunmaktadır.
 ## 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/C%23-0f172a?style=flat&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0f172a?style=flat&logo=python&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-0f172a?style=flat&logo=google-cloud&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-0f172a?style=flat&logo=anaconda&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-0f172a?style=flat&logo=flutter&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-0f172a?style=flat&logo=adobe&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-0f172a?style=flat&logo=canva&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-0f172a?style=flat&logo=blender&logoColor=white)
 ![After Effects](https://img.shields.io/badge/After%20Effects-0f172a?style=flat&logo=adobeaftereffects&logoColor=white)

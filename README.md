@@ -24,13 +24,6 @@ Ayrıca matematik olimpiyatlarında derecelerim bulunmaktadır.
 ![Blender](https://img.shields.io/badge/Blender-0f172a?style=flat&logo=blender&logoColor=white)
 ![After Effects](https://img.shields.io/badge/After%20Effects-0f172a?style=flat&logo=adobeaftereffects&logoColor=white)
 
-## 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=humeyranurakkaya&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=humeyranurakkaya&theme=github-dark&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humeyranurakkaya&layout=compact&theme=github_dark&hide_border=true" />
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
